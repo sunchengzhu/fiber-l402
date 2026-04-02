@@ -57,7 +57,7 @@ L402_EXPIRY_SECONDS=3600
 
 | Issue | 类型 | 标题 | 严重性 | 状态 |
 |---|---|---|---|---|
-| [#2](https://github.com/RetricSu/fiber-l402/issues/2) | 文档 | SETUP.md 缺少 CORS 配置 + payee/payer 角色说明 | 低 | 已提交 |
+| [#2](https://github.com/RetricSu/fiber-l402/issues/2) | 文档 | SETUP.md 缺少 CORS 配置 + payee/payer 角色说明 | **高** | 已提交 |
 | [#3](https://github.com/RetricSu/fiber-l402/issues/3) | Bug | FiberConnectButton 恢复已保存连接时崩溃（node_id→pubkey） | 中 | 已提交 |
 | [#4](https://github.com/RetricSu/fiber-l402/issues/4) | 架构 | HTTPS 下 connected-node 自动支付流程失效（mixed content） | 中 | 已提交 |
 | [#5](https://github.com/RetricSu/fiber-l402/issues/5) | Bug | 错误处理链路全程丢失上下文（500 → "Unexpected response"） | 中 | 已提交 |
